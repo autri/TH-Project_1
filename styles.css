@@ -107,6 +107,9 @@ header .profile-image:hover {
   height: 150px;
   border-radius: 10%;
   border: 3px solid darkslategray;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 ul.skills {
